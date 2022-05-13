@@ -1,2 +1,3 @@
 # MazeGame
-My game.
+Singleplayer game set in a randomly generated maze.
+Complete all the objectives without dying.
